@@ -1,6 +1,7 @@
 <template>
   <el-container>
     <el-header class="header">
+      <h2>图书馆书记管理系统</h2>
       <div class="user">admin</div>
     </el-header>
     <el-container :style="{height: containerHeight}">
